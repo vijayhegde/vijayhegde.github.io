@@ -1,4 +1,4 @@
-# Vijay Hegde - Senior Engineer
+Senior Software Engineer | 15+ Years in Web Development & System Integrations | Expert in PHP, Java, Python & Cloud (GCP, Azure) | Engineering Team Leader & Mentor | Passionate about Continuous Learning and Process Improvement
 
 ## About Me
 I am an experienced Senior Software Developer with over a decade of expertise in designing, developing, and delivering scalable and high-quality software solutions. I specialize in full-stack development, system architecture, and agile methodologies, with a strong passion for clean code and mentoring engineering teams to success.
